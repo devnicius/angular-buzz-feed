@@ -23,7 +23,7 @@
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual a sua maior preocupação ao enfretar um grande problema?",
       "options":[
         {"id": 1, "name":"Não destruir prédios", "alias":"B"},
         {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
@@ -35,13 +35,13 @@
       "id":4,
       "question": "Qual o seu maior foco ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
+        {"id": 1, "name":"Ficar rico com superpoderes", "alias":"A"},
         {"id": 2, "name":"Salvar a cidade", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual seria o seu apelido?",
       "options":[
         {"id": 1, "name":"O Terrivel", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
