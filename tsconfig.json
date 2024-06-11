@@ -4,6 +4,8 @@
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
+    "resolveJsonModule": true, // habilita o ts para resolver e entender json
+    "allowSyntheticDefaultImports": true, // lidar com importacao de arquivos json
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitOverride": true,
